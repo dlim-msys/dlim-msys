@@ -22,8 +22,6 @@ You can click the Preview link to take a look at your changes.
   
 ![dlim-msys's Stats](https://github-readme-stats.vercel.app/api?username=dlim-msys&theme=default&show_icons=true&hide_border=false&count_private=true) 
 
-</br>
-
 ![dlim-msys's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dlim-msys&theme=default&hide_border=false)
 
-![dlim-msys's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlim-msys&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![dlim-msys's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlim-msys&theme=default&show_icons=true&hide_border=true&layout=compact)
