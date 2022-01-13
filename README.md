@@ -9,6 +9,6 @@ dlim-msys/dlim-msys is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![dlim-msys's Stats](https://github-readme-stats.vercel.app/api?username=dlim-msys&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
+![dlim-msys's Stats](https://github-readme-stats.vercel.app/api?username=dlim-msys&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) 
 </br>
-![dlim-msys's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dlim-msys&theme=vue-dark&hide_border=true)
+![dlim-msys's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dlim-msys&theme=vue-dark&hide_border=false)
